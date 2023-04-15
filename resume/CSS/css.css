@@ -2,7 +2,7 @@ body{
     text-align: center;
 }
 .top-con{
-    background-image: url('C:\\Users\\aadit\\Documents\\WEB\\resumeWeb\\resume\\images\\backg.jpg');
+    background-image: url('\\images\\backg.jpg');
     background-size: cover;
     position: relative;
     height: 99vh;
