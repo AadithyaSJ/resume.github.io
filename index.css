@@ -1,0 +1,68 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('Burnout-Series-1.jpg');
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+#home{
+
+    /* position: relative; */
+    height: 100vh;
+    width: 80%;
+    
+}
+#home h1{
+    font-size: 5rem;
+    padding-bottom: 2%;
+    margin-bottom: 0;
+    font-family: 'Gentium Book Plus', serif;
+    color: #b3ffe1;
+    text-shadow: 3px 6px 2px #053a3a;
+    font-weight: 900;
+}
+#home .btn1{
+    margin-top: 1%;
+    position: relative;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 1% 1%;
+    font-size: 1.4rem;
+    font-weight: 900;
+    background-color: #053a3a;
+    color: #b3ffe1;
+    border: 0;
+}
+#home h3{
+    font-family: 'Alkatra', cursive;
+    font-size: 2rem;
+    font-weight: 500;
+    color: #053a3a;
+    text-shadow: 1px 1px 1px white;
+}
+
+#home{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.tec{
+    width: 70%;
+    height: 40%;
+    margin: auto auto;
+}
+
+.clock{
+    position: absolute;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3vh;
+    text-align: left;
+    color: rgb(255, 255, 161);
+    width: 90%;
+    height: 90%;
+    margin-left: 2%;
+    margin-top: 2%;
+    z-index: -1;
+}
